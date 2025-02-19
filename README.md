@@ -102,7 +102,7 @@
 ---
 
 ## 📚 Download CV
-📄 **[Download My Resume](https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/assets/Curriculum-Santiago-Fleitas.pdf)**  
+📄 **[Download My Resume](https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/pdf/Curriculum_Santiago_Fleitas.pdf)**  
 
 ---
 
