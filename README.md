@@ -97,7 +97,7 @@
 ---
 
 ## 🎮 Portfolio
-🌍 **Check out my portfolio:** [SantiagoFleitas Portfolio](https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/)  
+🌍 **Check out my portfolio:** [Santiago Fleitas Portfolio](https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/)  
 
 ---
 
