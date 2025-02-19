@@ -77,7 +77,7 @@
 ---
 
 ## 🚀 Projects
-👨‍💻 **[Warded](https://github.com/WardedApp)** - Community safety mobile app. (Backend Dev)  
+👨‍💻 **[Warded](https://github.com/German1127/Warded)** - Community safety mobile app. (Backend Dev)  
 📚 **[IbaEduca](https://github.com/IbaEduca)** - E-learning platform. (Fullstack)  
 🎮 **[CazaPalabras](https://santiagofleitasibarra.github.io/CazaPalabras-Juego-2025/)** - Word game like Wordle. (JS)  
 📅 **[Clases Al Cuadrado](https://santiagofleitasibarra.github.io/Clases-al-cuadrado/)** - Class booking platform. (JS)  
