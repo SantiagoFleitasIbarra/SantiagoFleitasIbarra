@@ -82,6 +82,8 @@
 🎮 **[CazaPalabras](https://santiagofleitasibarra.github.io/CazaPalabras-Juego-2025/)** - Word game like Wordle. (JS)  
 📅 **[Clases Al Cuadrado](https://santiagofleitasibarra.github.io/Clases-al-cuadrado/)** - Class booking platform. (JS)  
 
+**ENTRE OTROS**
+
 ---
 
 ## 📊 Stats & Achievements
