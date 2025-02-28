@@ -18,25 +18,20 @@
 
 ## 🕹️ Select Your Option:
 🔹 **[About Me](#-about-me)**  
-
 🔹 **[Skills](#-skills)**  
-
-🔹 **[Projects](#-projects)**
-
-🔹 **[Stats & Achievements](#-stats--achievements)**
-
-🔹 **[Portfolio](#-portfolio)**
-
-🔹 **[Download CV](#-download-cv)**
+🔹 **[Projects](#-projects)**  
+🔹 **[Stats & Achievements](#-stats--achievements)**  
+🔹 **[Portfolio](#-portfolio)**  
+🔹 **[Download CV](#-download-cv)**  
 
 ---
 
-## 👾 About Me
-
 ![Santiago Fleitas](https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/images/Santiago2.jpg)
 
+## 👾 About Me
 💾 **Software Developer | ML Enthusiast | Tech Gamer**  
 🎓 Graduate of **Holberton School** (Specialized in Machine Learning)  
+🎓 Currently studying **Computer Engineering at Universidad de la República (UdelaR)**  
 🚀 Passionate about coding, problem-solving, and game-like experiences.  
 🛠️ Focused on **Backend, Frontend, and AI Development**.  
 
@@ -46,11 +41,11 @@
 
 ## 🎯 Skills
 ```
-🛠️ Frontend  : [███████████] 100%
-💻 Backend   : [███████████] 100%
-📊 Database  : [██████     ] 60%
-🤖 AI & ML   : [█████      ] 50%
-🔗 DevOps    : [█████      ] 30%
+🛠️ Frontend  : [██████████] 100%
+💻 Backend    : [██████████] 100%
+📊 Database   : [██████    ] 60%
+🤖 AI & ML    : [█████     ] 50%
+🔗 DevOps     : [███       ] 30%
 ```
 
 ### 🚀 Tech Stack:
@@ -78,11 +73,11 @@
 
 ## 🚀 Projects
 👨‍💻 **[Warded](https://github.com/German1127/Warded)** - Community safety mobile app. (Backend Dev)  
-📚 **[IbaEduca](https://github.com/IbaEduca)** - E-learning platform. (Fullstack)  
-🎮 **[CazaPalabras](https://santiagofleitasibarra.github.io/CazaPalabras-Juego-2025/)** - Word game like Wordle. (JS)  
-📅 **[Clases Al Cuadrado](https://santiagofleitasibarra.github.io/Clases-al-cuadrado/)** - Class booking platform. (JS)  
-
-**ENTRE OTROS**
+📚 **[IbaEduca]()** - E-learning platform. (Fullstack)  
+🎮 **[CazaPalabras](https://github.com/SantiagoFleitasIbarra/CazaPalabras-Juego-2025)** - Word game like Wordle. (JS)  
+🌍 **[Inglés Divertido](https://github.com/SantiagoFleitasIbarra/ingles-divertido)** - Learn English with interactive games, 50+ words, 25 exercises, and didactic material. (Responsive, UI/UX)  
+📝 **[Organiza Mi Día](https://github.com/SantiagoFleitasIbarra/Organiza-tu-dia)** - Task manager with Windows 98 aesthetic. (JS, CSS)  
+🧮 **[Calculadora Científica](https://github.com/SantiagoFleitasIbarra/calculadora-cientifica)** - SciCalc with light/dark mode, button explanations, and language toggle (ES/EN). (JS, UI/UX)  
 
 ---
 
@@ -91,7 +86,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoFleitasIbarra&layout=compact&theme=radical)
 
 🏆 **Achievements**:
-
 ✔️ **Contributed to open-source projects**  
 ✔️ **Developed multi-platform apps**  
 ✔️ **Continuously learning new technologies**  
@@ -99,12 +93,12 @@
 ---
 
 ## 🎮 Portfolio
-🌍 **Check out my portfolio:** [Santiago Fleitas Portfolio](https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/)  
+🌍 **Check out my portfolio:** [SantiagoFleitas Portfolio](https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/)  
 
 ---
 
 ## 📚 Download CV
-📄 **[Download My Resume](https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/pdf/Curriculum_Santiago_Fleitas.pdf)**  
+📄 **[Download My Resume](https://github.com/SantiagoFleitasIbarra/SantiagoFleitas-Portfolio/blob/main/pdf/Curriculum%20Santiago%20Fleitas.pdf)**  
 
 ---
 
