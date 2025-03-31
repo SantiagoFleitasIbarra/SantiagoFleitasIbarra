@@ -28,11 +28,11 @@
 
 <img align="right" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoFleitasIbarra&theme=dark&hide_border=true" alt="GitHub streak stats">
 
-- 💾 **Software Developer | ML Enthusiast | Tech Gamer**
-- 🎓 **Graduate of Holberton School** (Specialized in Machine Learning)
+- 💾 **Software Developer | Full Stack Developer**
+- 🎓 **Graduate of Holberton School**
 - 🎓 Currently studying **Computer Engineering** at Universidad de la República (UdelaR)
-- 🚀 Passionate about coding, problem-solving, and game-like experiences
-- 🛠️ Focused on Backend, Frontend, and AI Development
+- 🚀 Passionate about coding and problem-solving
+- 🛠️ Focused on Backend and Frontend
 
 > "Coding is my ultimate adventure! I approach every challenge like a game level waiting to be conquered."
 
