@@ -11,14 +11,13 @@
 ---
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/85951628?v=4" width="180px" style="border-radius: 50%; border: 5px solid #539bf5; box-shadow: 0 0 20px rgba(83, 155, 245, 0.5);">
+  <img src="Santiago.jpg" width="180px" style="border-radius: 50%; border: 5px solid #539bf5; box-shadow: 0 0 20px rgba(83, 155, 245, 0.5);">
   
   # Santiago Fleitas
   
   <p><i>Software Developer | ML Enthusiast | Tech Gamer</i></p>
   
   <a href="https://github.com/SantiagoFleitasIbarra"><img src="https://img.shields.io/github/followers/SantiagoFleitasIbarra?label=Follow&style=social" alt="GitHub followers"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SantiagoFleitasIbarra.SantiagoFleitasIbarra" alt="visitors">
   <a href="https://www.linkedin.com/in/santiago-mauricio-fleitas-ibarra-852075280/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
   
@@ -115,11 +114,6 @@ Platform for publishing and downloading free ebooks across multiple categories.
 
 ---
 
-## 🎮 Portfolio
-🌍 **Check out my portfolio:** [SantiagoFleitas Portfolio](https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/)  
-
----
-
 ## 📬 Contact Me
 
 Feel free to reach out to me through any of these channels:
@@ -128,6 +122,6 @@ Feel free to reach out to me through any of these channels:
 - 📱 **Phone**: +598 92 564 819
 - 🔗 **LinkedIn**: [linkedin.com/in/santiagofleitas](https://www.linkedin.com/in/santiago-mauricio-fleitas-ibarra-852075280/)
 - 🐙 **GitHub**: [github.com/santiagofleitas](https://github.com/SantiagoFleitasIbarra)
-- 📄 **Resume**: [Download my CV](./pdf/Santiago%20Fleitas%20-%20Curriculum.pdf)
+- 📄 **Resume**: [Download my CV](https://github.com/SantiagoFleitasIbarra/SantiagoFleitas-Portfolio/blob/main/pdf/Santiago%20Fleitas%20-%20Curriculum.pdf)
 
 > "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." — Steve Jobs
