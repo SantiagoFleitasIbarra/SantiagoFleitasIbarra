@@ -1,13 +1,4 @@
-# 🎮 Welcome to My Dev Game!
-
-## 🕹️ Select Your Option:
-🔹 **[About Me](#-about-me)**  
-🔹 **[Skills](#-skills)**  
-🔹 **[Projects](#-projects)**  
-🔹 **[Stats & Achievements](#-stats--achievements)**  
-🔹 **[Portfolio](#-portfolio)**  
-🔹 **[Download CV](#-download-cv)**  
-
+# 🎮 Welcome!
 ---
 
 <div align="center">
