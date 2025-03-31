@@ -23,6 +23,8 @@
   <a href="https://santifleitas.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
   
   <img src="https://github-profile-trophy.vercel.app/?username=SantiagoFleitasIbarra&theme=nord&column=4&margin-w=15&margin-h=15" alt="trophies">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoFleitasIbarra&layout=compact&theme=radical)
 </div>
 
 ## 👾 About Me
@@ -134,4 +136,14 @@ Platform for publishing and downloading free ebooks across multiple categories.
 
 ---
 
-### 🎮 "Keep coding, keep playing, keep leveling up!" 🚀
+## 📬 Contact Me
+
+Feel free to reach out to me through any of these channels:
+
+- 📧 **Email**: [santiagofle8@gmail.com](mailto:santiagofle8@gmail.com)
+- 📱 **Phone**: +598 92 564 819
+- 🔗 **LinkedIn**: [linkedin.com/in/santiagofleitas](https://www.linkedin.com/in/santiago-mauricio-fleitas-ibarra-852075280/)
+- 🐙 **GitHub**: [github.com/santiagofleitas](https://github.com/SantiagoFleitasIbarra)
+- 📄 **Resume**: [Download my CV](./pdf/Santiago%20Fleitas%20-%20Curriculum.pdf)
+
+> "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." — Steve Jobs
