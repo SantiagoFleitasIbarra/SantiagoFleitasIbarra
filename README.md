@@ -17,10 +17,10 @@
   
   <p><i>Software Developer | ML Enthusiast | Tech Gamer</i></p>
   
-  <a href="https://github.com/santifleitas"><img src="https://img.shields.io/github/followers/SantiagoFleitasIbarra?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/SantiagoFleitasIbarra"><img src="https://img.shields.io/github/followers/SantiagoFleitasIbarra?label=Follow&style=social" alt="GitHub followers"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SantiagoFleitasIbarra.SantiagoFleitasIbarra" alt="visitors">
-  <a href="https://www.linkedin.com/in/santifleitas/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://santifleitas.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/santiago-mauricio-fleitas-ibarra-852075280/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
   
   <img src="https://github-profile-trophy.vercel.app/?username=SantiagoFleitasIbarra&theme=nord&column=4&margin-w=15&margin-h=15" alt="trophies">
 
@@ -115,24 +115,8 @@ Platform for publishing and downloading free ebooks across multiple categories.
 
 ---
 
-## 📊 Stats & Achievements
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoFleitasIbarra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoFleitasIbarra&layout=compact&theme=radical)
-
-🏆 **Achievements**:
-✔️ **Contributed to open-source projects**  
-✔️ **Developed multi-platform apps**  
-✔️ **Continuously learning new technologies**  
-
----
-
 ## 🎮 Portfolio
 🌍 **Check out my portfolio:** [SantiagoFleitas Portfolio](https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/)  
-
----
-
-## 📚 Download CV
-📄 **[Download My Resume](https://github.com/SantiagoFleitasIbarra/SantiagoFleitas-Portfolio/blob/main/pdf/Curriculum%20Santiago%20Fleitas.pdf)**  
 
 ---
 
