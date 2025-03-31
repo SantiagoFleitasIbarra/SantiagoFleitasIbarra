@@ -6,15 +6,20 @@
   # Santiago Fleitas
   
   <p><i>Full Stack Developer | Frontend Specialist (React, Tailwind, TypeScript) | Backend Dev (Node.js, Python, SQL) | Computer Engineering Student</i></p>
-  
-  <a href="https://github.com/SantiagoFleitasIbarra"><img src="https://img.shields.io/github/followers/SantiagoFleitasIbarra?label=Follow&style=social" alt="GitHub followers"></a>
+
   <a href="https://www.linkedin.com/in/santiago-mauricio-fleitas-ibarra-852075280/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
+
+  <br clear="right"/>
   
   <img src="https://github-profile-trophy.vercel.app/?username=SantiagoFleitasIbarra&theme=nord&column=4&margin-w=15&margin-h=15" alt="trophies">
 
+  <br clear="right"/>
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoFleitasIbarra&layout=compact&theme=radical)
 </div>
+
+<br clear="right"/>
 
 ## 👾 About Me
 
@@ -29,8 +34,6 @@
 > "Coding is my ultimate adventure! I approach every challenge like a game level waiting to be conquered."
 
 <br clear="right"/>
-
----
 
 ## 🚀 Tech Stack
 
@@ -64,10 +67,9 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
----
 🌟 **Always learning and expanding my stack!** 🚀
 
----
+<br clear="right"/>
 
 ## 🚀 Projects
 
@@ -107,7 +109,7 @@ Platform for publishing and downloading free ebooks across multiple categories.
 - **Technologies:** HTML5, CSS3, JavaScript
 - **[Demo](https://santiagofleitasibarra.github.io/Libreria-Online/)** | **[Repository](https://github.com/SantiagoFleitasIbarra/Libreria-Online)**
 
----
+<br clear="right"/>
 
 ## 📬 Contact Me
 
@@ -116,5 +118,7 @@ Feel free to reach out to me through any of these channels:
 - 📧 **Email**: [santiagofle8@gmail.com](mailto:santiagofle8@gmail.com)
 - 📱 **Phone**: +598 92 564 819
 - 📄 **Resume**: [Download my CV](https://github.com/SantiagoFleitasIbarra/SantiagoFleitas-Portfolio/blob/main/pdf/Santiago%20Fleitas%20-%20Curriculum.pdf)
+
+<br clear="right"/>
 
 > "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." — Steve Jobs
