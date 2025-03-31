@@ -5,7 +5,8 @@
   
   # Santiago Fleitas
   
-  <p><i>Full Stack Developer | Frontend Specialist (React, Tailwind, TypeScript) | Backend Dev (Node.js, Python, SQL) | Computer Engineering Student</i></p>
+  <p><i>Full Stack Developer | Frontend Specialist (React, Tailwind, TypeScript) 
+| Backend Dev (Node.js, Python, SQL) | Computer Engineering Student</i></p>
 
   <a href="https://www.linkedin.com/in/santiago-mauricio-fleitas-ibarra-852075280/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
