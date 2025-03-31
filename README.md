@@ -33,35 +33,40 @@
 
 ---
 
-## 🎯 Skills
-```
-🛠️ Frontend  : [██████████] 100%
-💻 Backend    : [██████████] 100%
-📊 Database   : [██████    ] 60%
-🤖 AI & ML    : [█████     ] 50%
-🔗 DevOps     : [███       ] 30%
-```
+## 🚀 Tech Stack
 
-### 🚀 Tech Stack:
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-14354C?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-14354C?style=for-the-badge&logo=tailwind_css3&logoColor=white)
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-14354C?style=for-the-badge&logo=express.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-### Moblie & Otros
-![Flutter](https://img.shields.io/badge/Flutter-43853D?style=for-the-badge&logo=flutter&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-14354C?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-43853D?style=for-the-badge&logo=figma&logoColor=white)
+### 🛢️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🔧 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+---
+🌟 **Always learning and expanding my stack!** 🚀
 
 ---
 
@@ -111,8 +116,6 @@ Feel free to reach out to me through any of these channels:
 
 - 📧 **Email**: [santiagofle8@gmail.com](mailto:santiagofle8@gmail.com)
 - 📱 **Phone**: +598 92 564 819
-- 🔗 **LinkedIn**: [linkedin.com/in/santiagofleitas](https://www.linkedin.com/in/santiago-mauricio-fleitas-ibarra-852075280/)
-- 🐙 **GitHub**: [github.com/santiagofleitas](https://github.com/SantiagoFleitasIbarra)
 - 📄 **Resume**: [Download my CV](https://github.com/SantiagoFleitasIbarra/SantiagoFleitas-Portfolio/blob/main/pdf/Santiago%20Fleitas%20-%20Curriculum.pdf)
 
 > "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." — Steve Jobs
