@@ -74,12 +74,42 @@
 ---
 
 ## 🚀 Projects
-👨‍💻 **[Warded](https://github.com/German1127/Warded)** - Community safety mobile app. (Backend Dev)  
-📚 **[IbaEduca]()** - E-learning platform. (Fullstack)  
-🎮 **[CazaPalabras](https://github.com/SantiagoFleitasIbarra/CazaPalabras-Juego-2025)** - Word game like Wordle. (JS)  
-🌍 **[Inglés Divertido](https://github.com/SantiagoFleitasIbarra/ingles-divertido)** - Learn English with interactive games, 50+ words, 25 exercises, and didactic material. (Responsive, UI/UX)  
-📝 **[Organiza Mi Día](https://github.com/SantiagoFleitasIbarra/Organiza-tu-dia)** - Task manager with Windows 98 aesthetic. (JS, CSS)  
-🧮 **[Calculadora Científica](https://github.com/SantiagoFleitasIbarra/calculadora-cientifica)** - SciCalc with light/dark mode, button explanations, and language toggle (ES/EN). (JS, UI/UX)  
+
+This portfolio showcases some of my most significant projects:
+
+### [IbaEduca]() 🎓
+Educational platform for selling online courses with content management system, video playback, and payment processing.
+- **Status:** Currently working
+
+### [WordHunter (CazaPalabras)](https://santiagofleitasibarra.github.io/CazaPalabras-Juego-2025/) 🎮
+Wordle-style game where users must find hidden words.
+- **Technologies:** JavaScript, HTML5, CSS3
+- **[Demo](https://santiagofleitasibarra.github.io/CazaPalabras-Juego-2025/)** | **[Repository](https://github.com/SantiagoFleitasIbarra/CazaPalabras-Juego-2025)**
+
+### [Fun English (Inglés Divertido)](https://santiagofleitasibarra.github.io/ingles-divertido/) 📚
+Interactive platform designed to make learning English more enjoyable and effective.
+- **Technologies:** HTML5, CSS3, JavaScript
+- **[Demo](https://santiagofleitasibarra.github.io/ingles-divertido/)** | **[Repository](https://github.com/SantiagoFleitasIbarra/ingles-divertido)**
+
+### [Organize Your Day with Joy](https://santiagofleitasibarra.github.io/Organiza-tu-dia/) 📝
+Task management application with a pleasant and intuitive interface.
+- **Technologies:** HTML5, CSS3, JavaScript
+- **[Demo](https://santiagofleitasibarra.github.io/Organiza-tu-dia/)** | **[Repository](https://github.com/SantiagoFleitasIbarra/Organiza-tu-dia)**
+
+### [Warded](https://www.youtube.com/watch?v=Lfbt74-kG8c) 🔒
+Mobile application that creates safe communities through private groups. Developed the complete backend including notification system and database management.
+- **Technologies:** Flutter, Jira, Figma, Firebase
+- **[Demo Day Presentation](https://www.youtube.com/watch?v=Lfbt74-kG8c)**
+
+### [Scientific Calculator](https://santiagofleitasibarra.github.io/calculadora-cientifica/) 🧮
+Advanced tool for complex mathematical calculations with adaptable and multilingual interface.
+- **Technologies:** JavaScript, HTML5, CSS3
+- **[Demo](https://santiagofleitasibarra.github.io/calculadora-cientifica/)** | **[Repository](https://github.com/SantiagoFleitasIbarra/calculadora-cientifica)**
+
+### [Online Library](https://santiagofleitasibarra.github.io/Libreria-Online/) 📚
+Platform for publishing and downloading free ebooks across multiple categories.
+- **Technologies:** HTML5, CSS3, JavaScript
+- **[Demo](https://santiagofleitasibarra.github.io/Libreria-Online/)** | **[Repository](https://github.com/SantiagoFleitasIbarra/Libreria-Online)**
 
 ---
 
