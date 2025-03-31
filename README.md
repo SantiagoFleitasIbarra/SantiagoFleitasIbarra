@@ -5,7 +5,7 @@
   
   # Santiago Fleitas
   
-  <p><i>Software Developer | ML Enthusiast | Tech Gamer</i></p>
+  <p><i>Full Stack Developer | Frontend Specialist (React, Tailwind, TypeScript) | Backend Dev (Node.js, Python, SQL) | Computer Engineering Student</i></p>
   
   <a href="https://github.com/SantiagoFleitasIbarra"><img src="https://img.shields.io/github/followers/SantiagoFleitasIbarra?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://www.linkedin.com/in/santiago-mauricio-fleitas-ibarra-852075280/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
