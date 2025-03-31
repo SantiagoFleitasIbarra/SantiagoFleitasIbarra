@@ -1,21 +1,5 @@
 # 🎮 Welcome to My Dev Game!
 
-```
- ██████╗ █████╗ ███╗  ██╗████████╗██╗ █████╗  ██████╗  █████╗
-██╔════╝██╔══██╗████╗ ██║╚══██╔══╝██║██╔══██╗██╔════╝ ██╔══██╗
-╚█████╗ ███████║██╔██╗██║   ██║   ██║███████║██║  ██╗ ██║  ██║
- ╚═══██╗██╔══██║██║╚████║   ██║   ██║██╔══██║██║  ╚██╗██║  ██║
-██████╔╝██║  ██║██║ ╚███║   ██║   ██║██║  ██║╚██████╔╝╚█████╔╝
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚══╝   ╚═╝   ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚════╝
-
-███████╗██╗     ███████╗██╗████████╗ █████╗  ██████╗
-██╔════╝██║     ██╔════╝██║╚══██╔══╝██╔══██╗██╔════╝
-█████╗  ██║     █████╗  ██║   ██║   ███████║╚█████╗
-██╔══╝  ██║     ██╔══╝  ██║   ██║   ██╔══██║ ╚═══██╗
-██║     ███████╗███████╗██║   ██║   ██║  ██║██████╔╝
-╚═╝     ╚══════╝╚══════╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝
-```
-
 ## 🕹️ Select Your Option:
 🔹 **[About Me](#-about-me)**  
 🔹 **[Skills](#-skills)**  
@@ -33,17 +17,17 @@
   
   <p><i>Software Developer | ML Enthusiast | Tech Gamer</i></p>
   
-  <a href="https://github.com/santifleitas"><img src="https://img.shields.io/github/followers/santifleitas?label=Follow&style=social" alt="GitHub followers"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=santifleitas.santifleitas" alt="visitors">
+  <a href="https://github.com/santifleitas"><img src="https://img.shields.io/github/followers/SantiagoFleitasIbarra?label=Follow&style=social" alt="GitHub followers"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SantiagoFleitasIbarra.SantiagoFleitasIbarra" alt="visitors">
   <a href="https://www.linkedin.com/in/santifleitas/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://santifleitas.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=santifleitas&theme=nord&column=4&margin-w=15&margin-h=15" alt="trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=SantiagoFleitasIbarra&theme=nord&column=4&margin-w=15&margin-h=15" alt="trophies">
 </div>
 
 ## 👾 About Me
 
-<img align="right" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=santifleitas&theme=dark&hide_border=true" alt="GitHub streak stats">
+<img align="right" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoFleitasIbarra&theme=dark&hide_border=true" alt="GitHub streak stats">
 
 - 💾 **Software Developer | ML Enthusiast | Tech Gamer**
 - 🎓 **Graduate of Holberton School** (Specialized in Machine Learning)
