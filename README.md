@@ -26,16 +26,34 @@
 
 ---
 
-![Santiago Fleitas](https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/images/Santiago2.jpg)
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/85951628?v=4" width="180px" style="border-radius: 50%; border: 5px solid #539bf5; box-shadow: 0 0 20px rgba(83, 155, 245, 0.5);">
+  
+  # Santiago Fleitas
+  
+  <p><i>Software Developer | ML Enthusiast | Tech Gamer</i></p>
+  
+  <a href="https://github.com/santifleitas"><img src="https://img.shields.io/github/followers/santifleitas?label=Follow&style=social" alt="GitHub followers"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=santifleitas.santifleitas" alt="visitors">
+  <a href="https://www.linkedin.com/in/santifleitas/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://santifleitas.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=santifleitas&theme=nord&column=4&margin-w=15&margin-h=15" alt="trophies">
+</div>
 
 ## 👾 About Me
-💾 **Software Developer | ML Enthusiast | Tech Gamer**  
-🎓 Graduate of **Holberton School** (Specialized in Machine Learning)  
-🎓 Currently studying **Computer Engineering at Universidad de la República (UdelaR)**  
-🚀 Passionate about coding, problem-solving, and game-like experiences.  
-🛠️ Focused on **Backend, Frontend, and AI Development**.  
 
-🎮 "Coding is my ultimate adventure!"  
+<img align="right" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=santifleitas&theme=dark&hide_border=true" alt="GitHub streak stats">
+
+- 💾 **Software Developer | ML Enthusiast | Tech Gamer**
+- 🎓 **Graduate of Holberton School** (Specialized in Machine Learning)
+- 🎓 Currently studying **Computer Engineering** at Universidad de la República (UdelaR)
+- 🚀 Passionate about coding, problem-solving, and game-like experiences
+- 🛠️ Focused on Backend, Frontend, and AI Development
+
+> "Coding is my ultimate adventure! I approach every challenge like a game level waiting to be conquered."
+
+<br clear="right"/>
 
 ---
 
