@@ -9,7 +9,7 @@
   <p><i>Backend Dev (Node.js, Python, SQL) | Computer Engineering Student</i></p>
 
   <a href="https://www.linkedin.com/in/santiago-mauricio-fleitas-ibarra-852075280/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://santiagofleitasibarra.github.io/SantiagoFleitas-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://studio--cosmic-portfolio-da2jb.us-central1.hosted.app/"><img src="https://img.shields.io/badge/Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
 
   <br clear="right"/>
   
